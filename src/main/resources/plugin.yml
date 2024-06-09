@@ -1,0 +1,4 @@
+name: JoinLeave
+version: '1.0'
+main: org.alwaysrik.joinleave.main
+description: "JoinLeave plugin for Spigot 1.20.0"

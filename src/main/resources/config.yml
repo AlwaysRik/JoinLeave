@@ -1,0 +1,5 @@
+## Zet hier de messages in die je wilt dat de spelers zien als ze joinen en leaven.
+## Enter the messages here that you want the players to see when they join and leave.
+## Made by AlwaysRik.
+join-motd: '&8[&a+&8] %player%'
+leave-motd: '&8[&c-&8] %player%'
